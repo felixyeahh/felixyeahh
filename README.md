@@ -8,7 +8,7 @@
 - :atom: I’m currently learning 🐍 **Python** 
 - :us: I live in United States
 - 🦭 My favourite animal is seal.
-- 🐈‍⬛ I have 2 cats and a dog. 
+- 🐈‍⬛ I have 2 cats and one dog. 
 
 #todo:
 - [ ] v1 [bot.aiogram](https://github.com/felixyeahh/bot.aiogram)
