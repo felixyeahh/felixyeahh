@@ -4,7 +4,7 @@
 **felixyeahh/felixyeahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - :shipit: My real name is ???, but I prefer **Felix**
-- 🔭 I’m currently working on my **telegram bot on aiogram** library
+- 🔭 I’m currently working on my telegram game-bot **jivopolis** 
 - :atom: I’m currently learning 🐍 **Python** and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=16 width=16/> C#
 - :us: I live in United States
 - 🦭 My favourite animal is seal.
