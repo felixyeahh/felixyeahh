@@ -2,11 +2,10 @@
 
 <!--**felixyeahh/felixyeahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- :shipit: My name is **Felix**
 - 🔭 I’m currently working on:
   - 🐈 My telegram game-bot **jivopolis** 
   - 🔁 **fyCursor** - python tool that will help you manage your sqlite3 database
-- :atom: I’m currently learning 🐍 **Python** and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=16 width=16/> **C#**
+- :atom: I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=16 width=16 style="vertical-align:bottom"/> **C#** and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=16 width=16 style="vertical-align:bottom"/> **Unity**
 - :us: I live in the United States
 - 🦭 My favorite animal is a seal.
 - 🐈‍⬛ I have 2 cats and one dog. 
